@@ -9,5 +9,7 @@
   "require": {
     "blessing-skin-server": "^5.0.0"
   },
-  "enchants": {}
+  "enchants": {
+    "config": "Configuration"
+  }
 }
