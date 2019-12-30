@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "title": "",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "url": "",
+  "namespace": "",
+  "require": {
+    "blessing-skin-server": "^5.0.0"
+  },
+  "enchants": {}
+}
