@@ -6,6 +6,6 @@ class Configuration
 {
     public function render()
     {
-        return view('...::config');
+        return view('xxx::config');
     }
 }
